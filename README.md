@@ -1,0 +1,2 @@
+# miniProjectSkills
+Assignments of Skills
